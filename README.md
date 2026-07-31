@@ -176,7 +176,7 @@ During this project I practiced:
 **Toufik Menaa**
 
 - GitHub: https://github.com/tou-eng
-- Portfolio: https://tou-eng.github.io/Toufik-Portfolio/
+
 
 ---
 
